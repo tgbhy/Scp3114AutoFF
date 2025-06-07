@@ -6,7 +6,7 @@ He asked a "Simple plugin. Whenever SCP-3114 is alive, friendly fire is automati
 The plugin is setting FriendlyFire to false when the Round is Starting and setting it to true if any SCP-3114 is alive.
 
 ## Installation
-- Download the latest `Scp3114AutoFF.dll` in [releases]https://github.com/tgbhy/Scp3114AutoFF/releases)
+- Download the latest `Scp3114AutoFF.dll` in [releases](https://github.com/tgbhy/Scp3114AutoFF/releases)
 - Put the .dll file in your EXILED's plugins folder. (Mostly on `.config/EXILED/Plugins/`)
 - Restart your server.
 - Enjoy!
